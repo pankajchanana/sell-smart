@@ -3,7 +3,7 @@
   "projectName": "sell_smart",
   "functions": [
     {
-      "$id": "648899b69a8f911696af",
+      "$id": "679912f8002479d02d2b",
       "name": "post_sanitizer",
       "runtime": "node-16.0",
       "path": "functions/post_sanitizer",
@@ -11,8 +11,8 @@
       "ignore": ["node_modules", ".npm"],
       "execute": [],
       "events": [
-        "databases.64884eb24476ed69928f.collections.648885c4e0a3b566339e.documents.*.create",
-        "databases.64884eb24476ed69928f.collections.648885c4e0a3b566339e.documents.*.update"
+        "databases.67991455000808c49623.collections.6799146e000bea51c307.documents.*.create",
+        "databases.67991455000808c49623.collections.6799146e000bea51c307.documents.*.update"
       ],
       "schedule": "",
       "timeout": 15
