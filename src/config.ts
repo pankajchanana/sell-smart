@@ -4,7 +4,7 @@ const config = {
   collectionIds: {
     states: '679d861c002314fd43f2',
     cities: '679d862d003e405c4278',
-    posts: '648885c4e0a3b566339e',
+    posts: '679d863c001771fbe999',
     categories: '679d8649001b9d4bff11',
     user_details: '679d8651000a2d926534',
     chats: '679d865e001b6c075c0e',
