@@ -11,8 +11,8 @@
       "ignore": ["node_modules", ".npm"],
       "execute": [],
       "events": [
-        "databases.64884eb24476ed69928f.collections.648885c4e0a3b566339e.documents.*.create",
-        "databases.64884eb24476ed69928f.collections.648885c4e0a3b566339e.documents.*.update"
+        "databases.67991455000808c49623.collections.648885c4e0a3b566339e.documents.*.create",
+        "databases.67991455000808c49623.collections.648885c4e0a3b566339e.documents.*.update"
       ],
       "schedule": "",
       "timeout": 15
