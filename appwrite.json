@@ -3,7 +3,7 @@
   "projectName": "sell_smart",
   "functions": [
     {
-      "$id": "648899b69a8f911696af",
+      "$id": "679912f8002479d02d2b",
       "name": "post_sanitizer",
       "runtime": "node-16.0",
       "path": "functions/post_sanitizer",
